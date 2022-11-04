@@ -1,0 +1,18 @@
+.row{
+    background-color:#afe7e7;
+    text-align: left;
+}
+h2, h3 {
+    display: inline
+}
+ul{
+    padding-top: 10px;
+    padding-left: 15%;
+    padding-right: 10%;
+}
+h1{
+    padding: 10px;
+    padding-left: 30px;
+    font-weight: bold;
+    background-color:  #98dada;
+}
